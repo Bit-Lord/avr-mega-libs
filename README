@@ -1,3 +1,19 @@
 Libs for Atmels AVR Mega Microcontroller.
 
-LCD Libary comming soon!
+LCD Libary commited!
+
+
+
+Features:
+
+-Produced for ST7066 LCD Driver Chips and compatibel once
+
+-Using 8 bit Datainterface
+
+-Free configurable contollbus pins
+
+-Use of busyflag to increase performance
+
+-Easy to make custom Symbols in a 5x8 pattern bitmask (Some Templates added)
+
+
